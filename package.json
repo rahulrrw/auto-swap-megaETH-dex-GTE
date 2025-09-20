@@ -1,0 +1,29 @@
+{
+  "name": "auto-swap-megaETH-dex-GTE",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Automated swap bot in dex GTE, on network megaETH.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "megaETH",
+    "airdrop",
+    "bot",
+    "swap",
+    "web3",
+    "GTE",
+    "crypto",
+    "blockchain",
+    "automation"
+  ],
+  "author": "abahuto",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.3.1",
+    "web3": "^1.10.0"
+  }
+}

